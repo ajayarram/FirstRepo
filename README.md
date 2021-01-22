@@ -1,5 +1,9 @@
 # FirstRepo
 Created a repository "FirstRepo"
-<h1>This is my first repo</h1>
-<h2>my name is Ajay Kumar Reddy Arram</h2>
+This is my first repo
+ my name is Ajay Kumar Reddy Arram 
+ ** Mountains are created due to the rupture of tectanic plates.**
+
+
+
 
